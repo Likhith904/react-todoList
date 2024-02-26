@@ -9,4 +9,4 @@ Currently, two official plugins are available:
 
 
 ## This is a react todoList with CRUD operations
-### Try demo here :  [Click here](https://main--react-todome.netlify.app/)
+### Try demo here : <a href="https://main--react-todome.netlify.app/" target="_blank">Click here</a>
