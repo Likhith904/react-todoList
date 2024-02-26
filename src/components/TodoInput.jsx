@@ -17,8 +17,10 @@ const TodoInput = (props) => {
       />
       <button
         onClick={() => {
-          handleAddTodo(todoValue);
-          setTodoValue("");
+          if (todoValue !== "") {
+            handleAddTodo(todoValue);
+            setTodoValue("");
+          }
         }}
       >
         Add
