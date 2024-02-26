@@ -8,5 +8,5 @@ Currently, two official plugins are available:
 - [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
 
 
-## This is a react todoList with CRUD operations
-### Try demo here : <a href="https://main--react-todome.netlify.app/" target="_blank">Click here</a>
+## This is a react todoList with CRUD operations with local storage
+### Try demo here : [Click here](https://external.ink?to=https://main--react-todome.netlify.app)
