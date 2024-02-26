@@ -9,4 +9,4 @@ Currently, two official plugins are available:
 
 
 ## This is a react todoList with CRUD operations with local storage
-### Try demo here : [Click here](https://main--react-todome.netlify.app){:target="_blank"}
+### Try demo here : <a href="https://main--react-todome.netlify.app" target="_blank" rel="noopener">Click here</a>
